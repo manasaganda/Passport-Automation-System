@@ -48,3 +48,12 @@ This project is built with .
 - React
 - shadcn-ui
 - Tailwind CSS
+
+##  Features
+
+- User registration and login
+- Online passport application form
+- Admin dashboard to manage applications
+- Dark mode toggle
+- Responsive UI with Tailwind and shadcn/ui
+
